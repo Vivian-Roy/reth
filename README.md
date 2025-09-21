@@ -82,12 +82,6 @@ If you want to contribute, or follow along with contributor discussion, you can 
 
 ### Building and testing
 
-<!--
-When updating this, also update:
-- Cargo.toml
-- .github/workflows/lint.yml
--->
-
 The Minimum Supported Rust Version (MSRV) of this project is [1.88.0](https://blog.rust-lang.org/2025/06/26/Rust-1.88.0/).
 
 See the docs for detailed instructions on how to [build from source](https://paradigmxyz.github.io/reth/installation/source).
